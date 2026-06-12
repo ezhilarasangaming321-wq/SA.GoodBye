@@ -40,4 +40,4 @@ async def on_member_remove(member):
 
 # Step 4: Run the bot with your unique token
 # PASTE YOUR DISCORD BOT TOKEN INSIDE THE QUOTES BELOW
-bot.run("")
+bot.run("MTUxNDg1MTk0ODc5MTMzNzA1MA.GbuRL-.JtPFcO87yg6i4IIiLLrNF53dFN8eosg_icrA1Q")
